@@ -12,6 +12,7 @@ https://github.com/ameyyadav09/GraphAlgos/tree/master/AllpairShortestPath
 | AllPair_Johnson.java : 33  | Ненужное присваивание | Удаление |
 | AllPair_Johnson.java : 38, AllPair_Johnson.java : 39 | Многократное вычисление | Занесение вычисления в переменную |
 | AllPair_Johnson.java : 35,36,37,38, AllPair_Johnson.java : 45,46, AllPair_Johnson.java : 62,63, AllPair_Johnson.java : 79, AllPair_Johnson.java : 96,97,101, AllPair_Johnson.java : 111, AllPair_Johnson.java : 116,117, AllPair_Johnson.java : 133, AllPair_Johnson.java : 141, , AllPair_Johnson.java : 146,147| Излишнее использование фигурных скобок | Удаление |
+| AllPair_Johnson.java : 128, AllPair_Johnson.java : 132, AllPair_Johnson.java : 140| Нет обработки исключения на неправильный ввод данных | Добавление обработок исключений |
 
 
 Инспектор:
